@@ -3,12 +3,14 @@
 This is a repository consists of multiple projects contributing to the detection of cell type specific enhancer - promoter pairs during human brain development. 
 
 The repository is parted into following sections: 
-1. Peak calling using SCAFE
-2. Generation of cell clusters using Seurat
-3. Generation of cell type trajectories using Monocle 
-4. Enhancer - promoter detection using Cicero
-5. Validation of Enhancer - promoter pairs using public data 
+  1. Peak calling using SCAFE
+  2. Generation of cell clusters using Seurat
+  3. Generation of cell type trajectories using Monocle 
+  4. Enhancer - promoter detection using Cicero
+  5. Validation of Enhancer - promoter pairs using public data 
 
+
+Description of projects
 1. Peak calling using SCAFE
 This function is more sensitive in detection lowly expressed peaks such as of enhancer RNAs. 
 
